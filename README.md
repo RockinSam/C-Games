@@ -8,6 +8,8 @@ Back in the day, My partner and I made it as we were participating in a college 
 I made a blog about back then too.
 Check out here: https://projectgcos.blogspot.com/2017/05/about-project-gcos.html
 
+Added Nuberpuzzle and reversi later.
+
 If you want to run it, copy the source code and run it in codeblocks. It will run hopefully :).
 
 Thanks for reading ;).
